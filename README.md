@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+My+Cloud+Engineering+Foundation;Learning+AWS+%26+Cloud+Fundamentals;Practicing+Linux+%26+Bash+Scripting;Exploring+Networking+%26+Databases;Working+Toward+Cloud+Architecture" alt="Typing SVG" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=deransiyadorinj&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
-</p>
-
 </div>
 
 ---
@@ -120,6 +116,7 @@ My dream is to become a **Cloud Architect**. I'm working toward this goal step b
 Exploring a cloud infrastructure project focused on building reliable and secure infrastructure for hospital applications.
 
 **Areas of interest:**
+
 - ☁️ Cloud infrastructure
 - 🔐 Security and access management
 - 🐳 Containers and deployment
