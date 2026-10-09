@@ -2,7 +2,7 @@
 
 # Hi, I'm Deransiya Dorin J 👋
 
-### ☁️ Aspiring Cloud Architect | 💻 Cloud Engineering | 🐍 Python & Technology Enthusiast
+### ☁️ Aspiring Cloud Architect | 💻 Cloud Engineering |  🌐 Networking Enthusiast
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+My+Cloud+Engineering+Foundation;Learning+AWS+%26+Cloud+Fundamentals;Practicing+Linux+%26+Bash+Scripting;Exploring+Networking+%26+Databases;Working+Toward+Cloud+Architecture" alt="Typing SVG" />
